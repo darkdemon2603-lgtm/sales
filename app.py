@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from datetime import date, timedelta
 
-st.set_page_config(page_title="HANBAO Customer & Sales Planner", layout="wide")
+st.set_page_config(page_title="Customer & Sales Planner", layout="wide")
 st.title("HANBAO | Sales Target → Customers Required")
 st.caption("Reverse-plan revenue into required customer visits, estimated unique customers, and new customers to attract.")
 
