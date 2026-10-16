@@ -1,0 +1,7 @@
+date,order_id,customer_id,product,revenue
+2026-10-01,O1001,C001,Cheeseburger,18.5
+2026-10-01,O1002,C002,Double Burger,24.0
+2026-10-02,O1003,C001,Fries,5.5
+2026-10-02,O1004,C003,Chicken Burger,16.0
+2026-10-03,O1005,C004,Cheeseburger,19.5
+2026-10-03,O1006,C002,Fries,6.0
