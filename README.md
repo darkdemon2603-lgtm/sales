@@ -1,4 +1,4 @@
-# HANBAO Sales-to-Customer Planner
+# Sales-to-Customer Planner
 
 A Streamlit app that reverse-plans a revenue target into required customer visits, estimated unique customers, and daily sales targets.
 
