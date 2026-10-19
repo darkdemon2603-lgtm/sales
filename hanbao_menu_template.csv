@@ -1,0 +1,11 @@
+item,category,price_gbp,sales_mix_pct,food_cost_per_unit_gbp
+Cheeseburger,Burgers,10.50,25,3.50
+Double Burger,Burgers,13.50,15,4.60
+Chicken Burger,Burgers,12.50,12,4.20
+Vegan Burger,Burgers,12.00,5,3.80
+Fries,Sides,4.50,15,1.10
+Loaded Fries,Sides,7.00,8,2.10
+Chicken Tenders,Sides,7.50,6,2.50
+Soft Drink,Drinks,3.00,10,0.60
+Milkshake,Drinks,5.50,2,1.30
+Dessert,Desserts,6.00,2,1.70
